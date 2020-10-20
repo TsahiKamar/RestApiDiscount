@@ -1,6 +1,4 @@
 const jwt = require('json-web-token')
-// https://livecodestream.dev/post/2020-08-11-a-practical-guide-to-jwt-authentication-with-nodejs/
-
 
 exports.refresh = function (req, res){
 

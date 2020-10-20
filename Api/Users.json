@@ -1,0 +1,15 @@
+
+[
+    {
+     "username":"tsahi",
+     "password":"123456",
+     "refreshToken":"",
+     "expiration":86400
+    },
+    {
+      "username":"omri",
+      "password":"111111",
+      "refreshToken":"",
+      "expiration":86400
+     }
+  ]
